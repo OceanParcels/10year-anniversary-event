@@ -1,0 +1,12 @@
+name: parcels_v4_10yr_event
+channels:
+  - conda-forge
+dependencies:
+  - parcels >3.2
+  - copernicusmarine >= 2
+
+  # Kernel workshop dependencies
+  - plotly
+
+  # v4 tutorial
+  - gsw

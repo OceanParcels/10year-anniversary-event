@@ -1,0 +1,11 @@
+## Parcels 10 year anniversary resources
+
+Some of the workshops for the [Parcels 10-year anniversary event](https://oceanparcels.org/blog/10year-event) (Wednesday 1 and Thursday 2 October 2025 in Utrecht, Netherlands) leverage Jupyter Notebooks. Since these workshops require different dependencies (e.g., one workshop using v3, and another using v4-alpha of Parcels) the notebooks are housed in separate repositories.
+
+See the table below for links to the workshop repositories as well as "one-click" cloud setups - where you drop into a Jupyter environment with everything set up. If you would like, you can also run locally by cloning the repo and installing the environment.
+
+| Workshop                           | Repository                                                                                              | Launch cloud instance                                                                        |
+| :--------------------------------- | :------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------- |
+| Session 2: Making custom kernels   | [OceanParcels/10year-anniversary-session2](https://github.com/OceanParcels/10year-anniversary-session2) | [Open in mybinder](https://mybinder.org/v2/gh/OceanParcels/10year-anniversary-session2/main) |
+| Session 4: What is Parcels v4?     | [OceanParcels/10year-anniversary-session4](https://github.com/OceanParcels/10year-anniversary-session4) | [Open in mybinder](https://mybinder.org/v2/gh/OceanParcels/10year-anniversary-session4/main) |
+| Session 5: Particle visualisations | [OceanParcels/10year-anniversary-session5](https://github.com/OceanParcels/10year-anniversary-session5) | [Open in mybinder](https://mybinder.org/v2/gh/OceanParcels/10year-anniversary-session5/main) |
